@@ -1,0 +1,11 @@
+PyAudio==0.2.11
+rembg==2.0.57
+Pillow==10.3.0
+# Tkinter does not have a version to be installed via pip; it's included with Python.
+keyboard==0.13.5
+ttkbootstrap==1.10.1
+scrapy==2.11.2
+streamlit==1.35.0
+gTTS==2.2.3
+pyttsx3==2.90
+requests==2.25.1
